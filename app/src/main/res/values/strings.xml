@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SAPRA</string>
+    <string name="Bluetooth_off">Bluetooth esta apagado</string>
+    <string name="Search">Se ha empezado la busqueda</string>
+    <string name="State_change">Prendido/ Apagado Bluetooth</string>
+    <string name="bluetooth_not_supported">Bluetooth no disponible</string>
+    <string name="name_device">Nombre dispositivo</string>
+    <string name="address_device">Direccion del dispositivo</string>
+    <string name="stop_search">Se termino la busqueda</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="on_led_red">Prende el LED rojo</string>
+    <string name="on_led_green">Prender el LED verde</string>
+    <string name="blue_led_on">Prende el LED azul</string>
+    <string name="start_text">Inicie el bluetooth para empezar con la aplicacion</string>
+</resources>
